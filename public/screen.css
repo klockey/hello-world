@@ -6,3 +6,15 @@ body {
   margin: 0;
   font: 16px / 1 sans-serif;
 }
+
+h1 {
+  color: green;
+}
+
+span.blue-text{
+  color: blue;
+}
+
+#yellow-text{
+  background-color: yellow;
+}
